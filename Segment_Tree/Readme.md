@@ -1,5 +1,5 @@
 Segment Tree – CSES Problem Solution
-
+(Problem Dynamic Range Sum Queries (link :https://cses.fi/problemset/task/1648)
 This repository contains my implementation of a Segment Tree solution for one of the CSES Range Query problems.
 The goal is to practice clean implementation of segment trees and improve my understanding of range-query data structures.
 
